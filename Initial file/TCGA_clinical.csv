@@ -1,0 +1,148 @@
+,age,gender,time,status,pathologicT,pathologicM,pathologicN,pathologicStage
+TCGA-B6-A0I6,49,female,991,Dead,T1c,M0,N1,Stage IIA
+TCGA-B6-A0IK,63,female,571,Dead,T4,M0,N1,Stage IIIB
+TCGA-BH-A204,80,female,2534,Dead,T2,M0,N1b,Stage IIB
+TCGA-AO-A03U,31,female,1793,Dead,T1c,M0,N0 (i-),Stage I
+TCGA-BH-A1EY,79,female,538,Dead,T2,M0,N0,Stage IIA
+TCGA-BH-A42T,75,female,320,Dead,T2,M0,N0 (i+),Stage IIA
+TCGA-AO-A03O,69,female,2483,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-GM-A2D9,69,female,1812,Dead,T1c,M0,N0 (i-),Stage I
+TCGA-A2-A0T2,66,female,255,Dead,T3,M1,N3,Stage IV
+TCGA-B6-A0IP,74,female,3926,Dead,T1c,M0,N0 (i-),Stage IA
+TCGA-A2-A0YT,56,female,723,Dead,T4b,M0,N2a,Stage IIIB
+TCGA-BH-A1FL,69,female,1673,Dead,T2,M0,N1b,Stage IIB
+TCGA-B6-A0RM,57,female,2373,Dead,TX,MX,NX,Stage X
+TCGA-B6-A0IB,64,female,3941,Dead,T3,M1,N3,Stage IV
+TCGA-B6-A0IN,45,female,2573,Dead,T1c,MX,NX,Stage X
+TCGA-BH-A1FH,47,female,1034,Dead,T2,M1,N1b,Stage IV
+TCGA-AQ-A7U7,55,female,584,Dead,T2,M0,N2a,Stage IIIA
+TCGA-B6-A0WS,58,female,2965,Dead,T1c,MX,NX,Stage X
+TCGA-AR-A2LK,62,female,1649,Dead,T3,M0,N2,Stage III
+TCGA-E2-A1LK,84,female,266,Dead,T4b,M0,N3a,Stage IIIC
+TCGA-B6-A0X0,54,female,3945,Dead,T1c,M0,N0 (i-),Stage I
+TCGA-BH-A0EA,72,female,991,Dead,T1c,M0,N1a,Stage IIA
+TCGA-BH-A1F0,80,female,785,Dead,T1a,M0,N1c,Stage IIA
+TCGA-BH-A18U,72,female,1563,Dead,T2,M0,N2a,Stage IIIA
+TCGA-B6-A0IH,81,female,2965,Dead,T3,M0,N1b,Stage IIIA
+TCGA-A8-A09X,62,female,426,Dead,T2,M0,N3a,Stage IIIC
+TCGA-OL-A66K,72,female,1275,Dead,T2,MX,N0,Stage IIA
+TCGA-AO-A03P,54,female,2911,Dead,T2,M0,N1,Stage IIB
+TCGA-BH-A18T,70,female,224,Dead,T2,M0,N0,Stage IIA
+TCGA-A8-A08T,64,female,3409,Dead,T2,M1,N1a,Stage IV
+TCGA-A2-A0CU,73,female,158,Dead,T2,M0,N0 (i+),Stage IIA
+TCGA-B6-A0IG,50,female,4456,Dead,T2,M0,N1b,Stage IIB
+TCGA-EW-A1P8,58,female,239,Dead,T2,M0,N3b,Stage IIIC
+TCGA-AR-A2LH,55,female,616,Dead,T3,M0,N3,Stage III
+TCGA-D8-A1Y1,80,female,302,Dead,T3,MX,N1a,Stage IIIA
+TCGA-AR-A5QQ,68,female,322,Dead,T3,M0,N1,Stage IIIA
+TCGA-BH-A1FD,68,female,1009,Dead,T1c,M0,N0,Stage I
+TCGA-LL-A73Z,55,female,227,Dead,T1c,M1,NX,Stage IV
+TCGA-B6-A0IE,38,female,1993,Dead,T3,M0,N1b,Stage IIIA
+TCGA-BH-A1EV,45,female,365,Dead,T3,M0,N1b,Stage IIIA
+TCGA-BH-A18S,79,female,2009,Dead,T1c,M0,N0,Stage I
+TCGA-B6-A0I9,62,female,362,Dead,T3,M1,NX,Stage IV
+TCGA-UU-A93S,63,female,116,Dead,T4d,M1,N3b,Stage IV
+TCGA-BH-A1EO,68,female,2798,Dead,T1c,M0,N1,Stage IIA
+TCGA-E9-A2JS,72,female,904,Dead,T2,M0,N1,Stage IIB
+TCGA-BH-A1FE,31,female,2273,Dead,T2,M0,N1,Stage IIB
+TCGA-AR-A1AT,62,female,1272,Dead,T2,M0,N0,Stage IIA
+TCGA-B6-A0X4,62,female,860,Dead,T2,M0,N1b,Stage IIB
+TCGA-B6-A0X5,61,female,2097,Dead,T2,M0,N1b,Stage IIB
+TCGA-BH-A18K,46,female,2763,Dead,T1,M0,N0,Stage I
+TCGA-BH-A1ES,35,female,3462,Dead,T2,M0,N1a,Stage IIB
+TCGA-BH-A209,77,female,3959,Dead,T1c,M0,N0,Stage I
+TCGA-B6-A409,44,female,573,Dead,T1c,M0,N2a,Stage IIIA
+TCGA-A2-A3XX,49,female,1439,Dead,T2,M0,N0,Stage IIA
+TCGA-B6-A0RL,60,female,2469,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-BH-A18P,60,female,921,Dead,T1,M0,N0,Stage I
+TCGA-E2-A15M,66,female,336,Dead,T2,M0,N0,Stage IIA
+TCGA-B6-A0IM,75,female,3873,Dead,T3,M0,N0 (i-),Stage IIB
+TCGA-B6-A0X7,62,female,1781,Dead,T1c,MX,NX,Stage X
+TCGA-B6-A0I1,73,female,2361,Dead,T2,M0,N0,Stage IIA
+TCGA-BH-A8FY,87,female,295,Dead,T1c,M0,N0 (i+),Stage IA
+TCGA-HN-A2OB,45,female,1900,Dead,T2,M0,N1,Stage IIB
+TCGA-A2-A04V,39,female,1920,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-E9-A1NG,62,female,786,Dead,T2,M0,N0,Stage IIA
+TCGA-BH-A18N,88,female,468,Dead,T2,M0,N1b,Stage IIA
+TCGA-A8-A08J,52,female,1127,Dead,T4b,M1,N3,Stage IV
+TCGA-BH-A1F2,53,female,959,Dead,T4b,M0,N1b,Stage IIIB
+TCGA-BH-A18V,48,female,1556,Dead,T2,M0,N1b,Stage IIB
+TCGA-A8-A06U,80,female,883,Dead,T2,M0,N1a,Stage IIB
+TCGA-BH-A1FN,34,female,2192,Dead,T2,M0,N0,Stage IIA
+TCGA-B6-A0I8,46,female,749,Dead,T1,M0,NX,Stage X
+TCGA-A8-A06X,77,female,943,Dead,T3,M0,N0,Stage IIB
+TCGA-E2-A1LE,71,female,879,Dead,T2,M0,N3a,Stage IIIC
+TCGA-B6-A0WV,67,female,2417,Dead,T2,M0,N1b,Stage IIB
+TCGA-PE-A5DC,72,female,1430,Dead,T2,M0,N2a,Stage IIIA
+TCGA-BH-A1EX,67,female,1508,Dead,T2,M0,N1b,Stage IIB
+TCGA-AC-A23H,90,female,0,Dead,T2,M0,NX,Stage IIA
+TCGA-BH-A1FM,44,female,1388,Dead,T2,M0,N2,Stage IIIA
+TCGA-BH-A1EN,78,female,2127,Dead,T2,M0,NX,Stage IIA
+TCGA-BH-A1ET,55,female,2520,Dead,T1,M0,N0,Stage I
+TCGA-A8-A08L,89,female,30,Dead,T3,M0,N2a,Stage IIIA
+TCGA-A7-A13E,62,female,614,Dead,T2,MX,N1,Stage IIB
+TCGA-A2-A0EW,53,female,1884,Dead,T1b,M0,N3a,Stage IIIC
+TCGA-A2-A0CO,85,female,1468,Dead,T3,M0,N0,Stage IIB
+TCGA-B6-A0RS,38,female,3063,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-B6-A3ZX,50,female,1152,Dead,T3,M1,N1,Stage IV
+TCGA-E9-A1RB,40,female,976,Dead,T2,M0,N0,Stage IIA
+TCGA-E9-A1N6,52,female,678,Dead,T2,M0,N1,Stage IIB
+TCGA-C8-A3M7,60,female,1034,Dead,T4b,M0,N0,Stage IIIB
+TCGA-A2-A0SW,82,female,1365,Dead,T2,M1,N2,Stage IV
+TCGA-AR-A0U2,47,female,2551,Dead,T2,M0,N2,Stage IIIA
+TCGA-BH-A1EW,38,female,1694,Dead,T2,M0,N1b,Stage IIA
+TCGA-BH-A18L,50,female,811,Dead,T3,M0,N1mi,Stage IIIA
+TCGA-BH-A1EU,83,female,1286,Dead,T1,M0,N0,Stage I
+TCGA-B6-A0WX,40,female,639,Dead,T3,M0,N1b,Stage IIIA
+TCGA-A1-A0SK,54,female,967,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-A2-A3XS,62,female,1032,Dead,T1,M0,N2a,Stage IIIA
+TCGA-C8-A12Q,78,female,385,Dead,T1,M0,N2,Stage IIIA
+TCGA-E9-A1NF,60,female,1072,Dead,T2,M0,N0,Stage IIA
+TCGA-A2-A3XU,35,female,912,Dead,T2,M0,N1mi,Stage IIB
+TCGA-A2-A0SV,63,female,825,Dead,T2,M1,N2a,Stage IV
+TCGA-BH-A203,78,female,1174,Dead,T2,M0,N1b,Stage IIB
+TCGA-AC-A2FM,87,female,792,Dead,T2,M0,N1mi,Stage IIB
+TCGA-B6-A0IC,90,female,0,Dead,T2,MX,NX,Stage X
+TCGA-BH-A1FC,78,female,3472,Dead,T1c,M0,N1b,Stage IIA
+TCGA-BH-A1FR,73,female,1642,Dead,T4b,M0,N1a,Stage IIIB
+TCGA-GM-A2DA,46,female,6593,Dead,T2,M0,N1b,Stage IIB
+TCGA-AO-A0J5,48,female,792,Dead,T4,M1,N1a,Stage IV
+TCGA-B6-A0RH,51,female,6456,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-BH-A1FU,44,female,1688,Dead,T1c,M0,N0,Stage IA
+TCGA-OL-A5D6,71,female,1104,Dead,T2,MX,N0,Stage IIA
+TCGA-B6-A0RQ,68,female,4267,Dead,T3,M0,N0 (i-),Stage IIB
+TCGA-BH-A18J,56,female,612,Dead,T4b,M1,N2,Stage IV
+TCGA-A2-A04P,36,female,548,Dead,T2,M0,N3c,Stage IIIC
+TCGA-A2-A0CS,73,female,2348,Dead,T4b,M1,N3a,Stage IV
+TCGA-AQ-A0Y5,70,female,172,Dead,T2,MX,N2a,Stage IIIA
+TCGA-BH-A0C1,61,female,1411,Dead,T3,M0,N2a,Stage IIIA
+TCGA-AR-A0TR,68,female,160,Dead,T2,M0,N1,Stage IIB
+TCGA-AR-A256,45,female,2854,Dead,T2,M0,N0,Stage IIA
+TCGA-BH-A1FG,88,female,577,Dead,T1c,M0,NX,Stage I
+TCGA-AC-A62V,58,male,348,Dead,T2,M1,N1a,Stage IV
+TCGA-E2-A14Z,64,female,563,Dead,T1c,M0,N0,Stage I
+TCGA-AC-A2QJ,48,female,446,Dead,T4b,M0,N0,Stage IIIB
+TCGA-AR-A0TY,54,female,1699,Dead,T2,M0,N0,Stage IIA
+TCGA-BH-A18Q,56,female,1692,Dead,T2,M0,N1b,Stage IIB
+TCGA-E2-A1B4,74,female,1004,Dead,T1c,M0,N2a,Stage IIIA
+TCGA-E9-A226,45,female,1048,Dead,T2,M0,N2,Stage IIIA
+TCGA-BH-A208,48,female,1759,Dead,T2,M0,N1b,Stage IIB
+TCGA-AR-A24L,26,female,2866,Dead,T2,M0,N1,Stage IIB
+TCGA-A2-A3XY,49,female,1093,Dead,T2,M0,N1a,Stage IIB
+TCGA-BH-A1F5,62,female,2712,Dead,T1c,M0,N1a,Stage IIA
+TCGA-BH-A0BF,56,female,1324,Dead,T2,M0,N1mi,Stage IIB
+TCGA-D8-A73W,79,female,385,Dead,T3,MX,N1a,Stage IIIA
+TCGA-A2-A0CM,40,female,754,Dead,T2,M0,N0 (i-),Stage IIA
+TCGA-BH-A1FB,60,female,3669,Dead,T2,M0,N1b,Stage IIB
+TCGA-AR-A1AR,50,female,524,Dead,T1,M0,N2,Stage IIIA
+TCGA-D8-A1XC,85,female,377,Dead,T4b,M0,N1a,Stage IIIB
+TCGA-BH-A1F8,90,female,1,Dead,T4b,M0,N2,Stage IIIB
+TCGA-B6-A0WW,58,female,558,Dead,T2,MX,N1b,Stage X
+TCGA-E2-A2P5,78,female,821,Dead,T2,M0,N3,Stage IIIC
+TCGA-BH-A0BP,76,female,2296,Dead,T1c,M0,N0,Stage I
+TCGA-B6-A0WY,40,female,3461,Dead,T3,M0,N1b,Stage IIIA
+TCGA-BH-A18M,39,female,2207,Dead,T3,M0,N1,Stage IIIA
+TCGA-BH-A1FJ,66,female,1927,Dead,T3,M0,N1b,Stage IIIA
+TCGA-BH-A18R,50,female,1142,Dead,T2b,M0,N1,Stage IIA
+TCGA-AC-A2FE,62,female,2636,Dead,T3,MX,N3a,Stage IIIC
+TCGA-AC-A3EH,79,female,197,Dead,T3,M0,N3,Stage IIIC
